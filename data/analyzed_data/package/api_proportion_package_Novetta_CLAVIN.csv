@@ -1,0 +1,29 @@
+packageName,api,mcrCategories,mcrTags,count,countAll,proportion
+com.novetta.clavin.extractor,org.apache.httpcomponents:httpclient,HTTP Clients,"apache,client,http",13,120,0.11
+com.novetta.clavin.extractor,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",7,120,0.06
+com.novetta.clavin.extractor,org.apache.opennlp:opennlp-tools,Natural Language Processing,"nlp,tools,apache",58,120,0.48
+com.novetta.clavin.extractor,com.fasterxml.jackson.core:jackson-databind,JSON Libraries,"binding,json",18,120,0.15
+com.novetta.clavin.extractor,junit:junit,Testing Frameworks,"testing,junit",24,120,0.2
+com.novetta.clavin.resolver.multipart,junit:junit,Testing Frameworks,"testing,junit",19,39,0.49
+com.novetta.clavin.resolver.multipart,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",20,39,0.51
+com.novetta.clavin.resolver,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",13,117,0.11
+com.novetta.clavin.resolver,org.apache.lucene:lucene-queryparser,"","lucene,apache,index",6,117,0.05
+com.novetta.clavin.resolver,junit:junit,Testing Frameworks,"testing,junit",98,117,0.84
+com.novetta.clavin.util,commons-io:commons-io,I/O Utilities,io,2,75,0.03
+com.novetta.clavin.util,junit:junit,Testing Frameworks,"testing,junit",73,75,0.97
+com.novetta.clavin,junit:junit,Testing Frameworks,"testing,junit",15,26,0.58
+com.novetta.clavin,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",11,26,0.42
+com.novetta.clavin.index,org.apache.lucene:lucene-analyzers-common,"","lucene,analyzer,apache,index",1,274,0.0
+com.novetta.clavin.index,commons-cli:commons-cli,Command Line Parsers,"command-line,cli,parser",80,274,0.29
+com.novetta.clavin.index,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",67,274,0.24
+com.novetta.clavin.index,junit:junit,Testing Frameworks,"testing,junit",6,274,0.02
+com.novetta.clavin.index,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",116,274,0.42
+com.novetta.clavin.index,commons-io:commons-io,I/O Utilities,io,2,274,0.01
+com.novetta.clavin.index,org.apache.commons:commons-lang3,Core Utilities,"apache,commons",2,274,0.01
+com.novetta.clavin.gazetteer.query,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",173,291,0.59
+com.novetta.clavin.gazetteer.query,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",23,291,0.08
+com.novetta.clavin.gazetteer.query,org.apache.lucene:lucene-queryparser,"","lucene,apache,index",12,291,0.04
+com.novetta.clavin.gazetteer.query,junit:junit,Testing Frameworks,"testing,junit",83,291,0.29
+com.novetta.clavin.gazetteer,junit:junit,Testing Frameworks,"testing,junit",122,181,0.67
+com.novetta.clavin.gazetteer,org.mockito:mockito-core,Mocking,"mock,mocking,testing",48,181,0.27
+com.novetta.clavin.gazetteer,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",11,181,0.06

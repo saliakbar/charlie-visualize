@@ -1,0 +1,4 @@
+abstraction,org.openjdk.jmh:jmh-core,org.openjdk.jmh:jmh-generator-annprocess,both
+method,4470,0,0
+class,1045,0,0
+package,229,0,0

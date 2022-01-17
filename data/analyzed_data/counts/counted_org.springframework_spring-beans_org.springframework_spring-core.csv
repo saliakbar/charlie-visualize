@@ -1,0 +1,4 @@
+abstraction,org.springframework:spring-beans,org.springframework:spring-core,both
+method,400,715,42
+class,290,285,60
+package,137,90,45

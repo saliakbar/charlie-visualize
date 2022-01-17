@@ -1,0 +1,4 @@
+abstraction,org.springframework:spring-web,org.springframework:spring-webmvc,both
+method,1159,272,96
+class,339,142,72
+package,96,48,32

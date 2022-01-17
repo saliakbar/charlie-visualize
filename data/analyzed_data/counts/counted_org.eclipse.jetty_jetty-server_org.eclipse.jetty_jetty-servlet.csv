@@ -1,0 +1,4 @@
+abstraction,org.eclipse.jetty:jetty-server,org.eclipse.jetty:jetty-servlet,both
+method,225,24,22
+class,33,19,19
+package,23,18,18

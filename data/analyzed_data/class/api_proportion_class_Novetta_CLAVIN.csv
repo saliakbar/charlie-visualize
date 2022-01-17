@@ -1,0 +1,47 @@
+packageName,className,api,mcrCategories,mcrTags,count,countAll,proportion
+com.novetta.clavin,AllTestsSuite,junit:junit,Testing Frameworks,"testing,junit",3,3,1.0
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,junit:junit,Testing Frameworks,"testing,junit",83,83,1.0
+com.novetta.clavin.util,DamerauLevenshteinTest,junit:junit,Testing Frameworks,"testing,junit",65,65,1.0
+com.novetta.clavin.index,WhitespaceLowerCaseAnalyzer,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",3,3,1.0
+com.novetta.clavin,GeoParserTest,junit:junit,Testing Frameworks,"testing,junit",8,8,1.0
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,junit:junit,Testing Frameworks,"testing,junit",11,11,1.0
+com.novetta.clavin.resolver,ClavinLocationResolverTest,junit:junit,Testing Frameworks,"testing,junit",47,50,0.94
+com.novetta.clavin.resolver,ClavinLocationResolverTest,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",3,50,0.06
+com.novetta.clavin.extractor,ApacheExtractor,org.apache.opennlp:opennlp-tools,Natural Language Processing,"nlp,tools,apache",45,45,1.0
+com.novetta.clavin,GeoParser,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",11,11,1.0
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,org.apache.lucene:lucene-queryparser,"","lucene,apache,index",12,187,0.06
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",152,187,0.81
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",23,187,0.12
+com.novetta.clavin.extractor,AdaptNlpExtractorTest,junit:junit,Testing Frameworks,"testing,junit",6,6,1.0
+com.novetta.clavin.index,BinarySimilarityTest,junit:junit,Testing Frameworks,"testing,junit",6,17,0.35
+com.novetta.clavin.index,BinarySimilarityTest,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",11,17,0.65
+com.novetta.clavin.gazetteer,BasicGeoNameTest,junit:junit,Testing Frameworks,"testing,junit",109,109,1.0
+com.novetta.clavin.index,WhitespaceLowerCaseTokenizer,org.apache.lucene:lucene-analyzers-common,"","lucene,analyzer,apache,index",1,1,1.0
+com.novetta.clavin.resolver,ResolvedLocationTest,junit:junit,Testing Frameworks,"testing,junit",6,6,1.0
+com.novetta.clavin.util,ListUtilsTest,junit:junit,Testing Frameworks,"testing,junit",6,6,1.0
+com.novetta.clavin.gazetteer.query,UniqueFuzzyScoringRewrite,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",21,21,1.0
+com.novetta.clavin.resolver.multipart,MultiLevelMultipartLocationResolverTest,junit:junit,Testing Frameworks,"testing,junit",8,8,1.0
+com.novetta.clavin.extractor,ApacheExtractorTest,junit:junit,Testing Frameworks,"testing,junit",6,6,1.0
+com.novetta.clavin.index,BinarySimilarity,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",10,10,1.0
+com.novetta.clavin,GeoParserFactoryTest,junit:junit,Testing Frameworks,"testing,junit",4,4,1.0
+com.novetta.clavin.extractor,AdaptNlpExtractor,com.fasterxml.jackson.core:jackson-databind,JSON Libraries,"binding,json",18,51,0.35
+com.novetta.clavin.extractor,AdaptNlpExtractor,org.apache.opennlp:opennlp-tools,Natural Language Processing,"nlp,tools,apache",13,51,0.25
+com.novetta.clavin.extractor,AdaptNlpExtractor,org.apache.httpcomponents:httpclient,HTTP Clients,"apache,client,http",13,51,0.25
+com.novetta.clavin.extractor,AdaptNlpExtractor,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",7,51,0.14
+com.novetta.clavin.util,TextUtilsTest,junit:junit,Testing Frameworks,"testing,junit",2,2,1.0
+com.novetta.clavin.resolver,LuceneLocationResolver,org.apache.lucene:lucene-queryparser,"","lucene,apache,index",6,13,0.46
+com.novetta.clavin.resolver,LuceneLocationResolver,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",7,13,0.54
+com.novetta.clavin.resolver.multipart,MatchedLocation,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",5,5,1.0
+com.novetta.clavin.util,TextUtils,commons-io:commons-io,I/O Utilities,io,2,2,1.0
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,junit:junit,Testing Frameworks,"testing,junit",13,61,0.21
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,org.mockito:mockito-core,Mocking,"mock,mocking,testing",48,61,0.79
+com.novetta.clavin.index,IndexDirectoryBuilder,org.apache.commons:commons-lang3,Core Utilities,"apache,commons",2,243,0.01
+com.novetta.clavin.index,IndexDirectoryBuilder,commons-io:commons-io,I/O Utilities,io,2,243,0.01
+com.novetta.clavin.index,IndexDirectoryBuilder,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",67,243,0.28
+com.novetta.clavin.index,IndexDirectoryBuilder,commons-cli:commons-cli,Command Line Parsers,"command-line,cli,parser",80,243,0.33
+com.novetta.clavin.index,IndexDirectoryBuilder,org.apache.lucene:lucene-core,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index",92,243,0.38
+com.novetta.clavin.resolver.multipart,MultipartLocationResolver,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",15,15,1.0
+com.novetta.clavin.extractor,LocationOccurrenceTest,junit:junit,Testing Frameworks,"testing,junit",12,12,1.0
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",3,48,0.06
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,junit:junit,Testing Frameworks,"testing,junit",45,48,0.94
+com.novetta.clavin.gazetteer,BasicGeoName,org.slf4j:slf4j-api,Logging Frameworks,"logging,api,slf4j",11,11,1.0

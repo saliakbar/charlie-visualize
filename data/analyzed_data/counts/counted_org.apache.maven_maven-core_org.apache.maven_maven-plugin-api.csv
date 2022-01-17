@@ -1,0 +1,4 @@
+abstraction,org.apache.maven:maven-core,org.apache.maven:maven-plugin-api,both
+method,705,1461,298
+class,261,447,189
+package,70,108,64

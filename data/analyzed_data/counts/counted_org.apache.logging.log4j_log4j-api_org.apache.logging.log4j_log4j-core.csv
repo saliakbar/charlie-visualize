@@ -1,0 +1,4 @@
+abstraction,org.apache.logging.log4j:log4j-api,org.apache.logging.log4j:log4j-core,both
+method,1342,153,107
+class,455,44,37
+package,167,20,17

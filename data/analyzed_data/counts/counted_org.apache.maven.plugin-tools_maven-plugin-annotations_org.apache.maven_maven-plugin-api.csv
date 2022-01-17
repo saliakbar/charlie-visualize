@@ -1,0 +1,4 @@
+abstraction,org.apache.maven.plugin-tools:maven-plugin-annotations,org.apache.maven:maven-plugin-api,both
+method,296,1403,106
+class,296,440,235
+package,79,122,79

@@ -1,0 +1,393 @@
+packageName,className,methodName,mcrCategories,mcrTags
+com.novetta.clavin.gazetteer.query,Gazetteer,loadAncestry,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,getMatchCount,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,resolveWithAncestryMode,none,none
+com.novetta.clavin.extractor,LocationExtractor,extractLocationNames,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,parameters,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getPreferredName,none,none
+com.novetta.clavin.extractor,Entity,setConfidence,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getPrimaryCountryCode,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getFeatureCode,none,none
+com.novetta.clavin.index,WhitespaceLowerCaseTokenizer,isTokenChar,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.util,ListUtilsTest,testZeroChunk,Testing Frameworks,"testing,junit"
+com.novetta.clavin.util,TextUtilsTest,testFileToString,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getTimezone,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testUTFAndMissingColumns,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testParseExceptions,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getName,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,ancestryMode,none,none
+com.novetta.clavin.gazetteer.query,UniqueFuzzyScoringRewrite,getTopLevelBuilder,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testIsTopLevelAdminDivision,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,DefaultScorer,getMinimumScore,none,none
+com.novetta.clavin.util,DamerauLevenshtein,.,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,setUp,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,GazetteerQuery,.,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testGetGeoName,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin,GeoParser,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testIsAncestryResolved_PartialResolution,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getAdmin2Code,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getDigitalElevationModel,none,none
+com.novetta.clavin.index,BinarySimilarityTest,testTF,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.index,BinarySimilarityTest,testTF,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsMassachusetts,Testing Frameworks,"testing,junit"
+com.novetta.clavin,ClavinException,.,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getModificationDate,none,none
+com.novetta.clavin.gazetteer.query,UniqueFuzzyScoringRewrite,build,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.resolver,ResolvedLocation,getMatchedName,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getDigitalElevationModel,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getAncestryKey,none,none
+com.novetta.clavin.resolver,LocationResolver,.,none,none
+com.novetta.clavin.gazetteer,GeoName,setParent,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,main,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.index,IndexDirectoryBuilder,main,I/O Utilities,io
+com.novetta.clavin.index,IndexDirectoryBuilder,main,Command Line Parsers,"command-line,cli,parser"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testResolveLocations,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_ManualResolve_NullParent,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_ManualResolve_NullParent,Mocking,"mock,mocking,testing"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testBorderCases,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getModificationDate,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,makeOccurrencesFromNames,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_RestrictedParents,Testing Frameworks,"testing,junit"
+com.novetta.clavin.util,InfiniteCharArray,.,none,none
+com.novetta.clavin.gazetteer,GeoName,getAdmin2Code,none,none
+com.novetta.clavin.extractor,TextBody,getText,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,resolveUnresolved,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,setUp,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,Entity,setType,none,none
+com.novetta.clavin.gazetteer,GeoName,getAlternateCountryCodes,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getFeatureClass,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getGeonameID,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getGazetteerRecordWithAncestry,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,logUnresolved,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.extractor,ApacheExtractorTest,testExtractLocationNames,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,DefaultScorer,.,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_NotResolved_FoundParent,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_NotResolved_FoundParent,Mocking,"mock,mocking,testing"
+com.novetta.clavin,GeoParserFactoryTest,testGetDefault,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,resolveWithHeuristics,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,checkDescendantsResolved,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer.query,QueryBuilder,.,none,none
+com.novetta.clavin.util,DamerauLevenshtein,isEditDistance1,none,none
+com.novetta.clavin.resolver.multipart,MultiLevelMultipartLocationResolverTest,.,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getTimezone,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,.,none,none
+com.novetta.clavin.util,DamerauLevenshtein,damerauLevenshteinDistance,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_RestrictedCodes,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testNoHeuristics,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,LuceneLocationResolver,resolveLocations,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testTopLevelAncestryKeys,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,MultipartLocationResolver,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.resolver,ResolvedLocation,.,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getLongitude,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_NullLocationOccurrence,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAlternateCountryCodes,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,isFullySpecified,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolver,findCandidates,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,getCity,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAdmin2Code,none,none
+com.novetta.clavin.index,BinarySimilarity,idfExplain,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.resolver,ResolvedLocationTest,testEquals,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,AdaptNlpExtractor,extractLocationNames,Natural Language Processing,"nlp,tools,apache"
+com.novetta.clavin.extractor,AdaptNlpExtractor,extractLocationNames,JSON Libraries,"binding,json"
+com.novetta.clavin.extractor,AdaptNlpExtractor,extractLocationNames,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.extractor,AdaptNlpExtractor,extractLocationNames,HTTP Clients,"apache,client,http"
+com.novetta.clavin.gazetteer.query,QueryBuilder,removeParentIds,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,buildIndex,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.index,IndexDirectoryBuilder,buildIndex,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,BasicGeoName,getAdminLevel,none,none
+com.novetta.clavin.gazetteer.query,GazetteerQuery,getFuzzyMode,none,none
+com.novetta.clavin.index,BinarySimilarity,idf,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,toString,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,setUp,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,QueryBuilder,removeAdminCodes,none,none
+com.novetta.clavin.resolver.multipart,MultiLevelMultipartLocationResolverTest,testResolveMultipartLocation,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,hashCode,none,none
+com.novetta.clavin.resolver,ResolvedLocation,getLocation,none,none
+com.novetta.clavin.extractor,LocationOccurrence,equals,none,none
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,getCountry,none,none
+com.novetta.clavin.extractor,LocationOccurrenceTest,testEquals,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,UniqueFuzzyScoringRewrite,getMaxSize,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testSanitizedInput,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,UniqueFuzzyScoringRewrite,addClause,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.util,InfiniteCharArray,remainder,none,none
+com.novetta.clavin.gazetteer,GeoName,getAlternateNames,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,getState,none,none
+com.novetta.clavin,AllTestsSuite,.,Testing Frameworks,"testing,junit"
+com.novetta.clavin.util,DamerauLevenshteinTest,testDamerauLevenshteinDistance,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,Entity,.,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,equals,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getParentAncestryKey,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,isTopLevelAdminDivision,none,none
+com.novetta.clavin.util,Null,hashCode,none,none
+com.novetta.clavin.extractor,ApacheExtractor,.,Natural Language Processing,"nlp,tools,apache"
+com.novetta.clavin.gazetteer,BasicGeoName,setParent,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.extractor,ApacheExtractorTest,testNullInput,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testNoPrimaryCountryCode,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getAdmin1Code,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,.,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testAllAttributes,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,resolveNoHeuristics,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getFeatureClass,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getPrimaryCountryCode,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,executeQuery,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,equals,none,none
+com.novetta.clavin.gazetteer,GeoName,getAsciiName,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveAncestry,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,setParent,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,addFeatureCodes,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,fuzzyMode,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,clearFeatureCodes,none,none
+com.novetta.clavin.util,InfiniteCharArray,get,none,none
+com.novetta.clavin.extractor,TextBody,setText,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testLoadAncestry,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ResolvedLocation,toString,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_Fuzzy,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,makeOccurrencesFromNames,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAlternateNames,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,getMostSpecificMatch,none,none
+com.novetta.clavin.util,DamerauLevenshteinTest,testIsEditDistance1,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,GeoName,getTimezone,none,none
+com.novetta.clavin.resolver,ClavinLocationResolver,getGazetteer,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testNonEmptyAlternateCountryCodes,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testIsAncestryResolved_FullResolution,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,.,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,.,Mocking,"mock,mocking,testing"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,.,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,isTopLevelTerritory,none,none
+com.novetta.clavin.util,DamerauLevenshteinTest,testDamerauLevenshteinDistanceCaseInsensitive,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,buildAncestryKey,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,getClosestLocations,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,hashCode,none,none
+com.novetta.clavin.resolver,ClavinLocationResolver,resolveLocations,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolver,resolveMultipartLocation,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_AlreadyResolved,Mocking,"mock,mocking,testing"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_AlreadyResolved,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,GeoName,getPrimaryCountryName,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getGeonameID,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsEngland,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testGetNullGeoName,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsOntario,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolver,.,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolver,resolveLocation,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer.query,QueryBuilder,addParentIds,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,toString,none,none
+com.novetta.clavin.extractor,Entity,getText,none,none
+com.novetta.clavin.gazetteer,GeoName,getModificationDate,none,none
+com.novetta.clavin.gazetteer,GeoName,isDescendantOf,none,none
+com.novetta.clavin.gazetteer,FeatureCodeBuilder,main,none,none
+com.novetta.clavin.gazetteer.query,GazetteerQuery,getFeatureCodes,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,getMatches,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getPopulation,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getPreferredName,none,none
+com.novetta.clavin,WorkflowDemo,main,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,isTopLevelTerritory,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAncestryKey,none,none
+com.novetta.clavin.resolver.multipart,SearchResult,toString,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,.,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,buildFilters,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.resolver.multipart,DefaultScorer,score,none,none
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,.,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testFindHistoricalLocations,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testIsDemonym,Testing Frameworks,"testing,junit"
+com.novetta.clavin.index,BinarySimilarity,tf,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,getMatch,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getAlternateCountryCodes,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getParent,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getLatitude,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,getCity,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testFilterDupes,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsIllinois,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,toString,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testBorderCases,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getParentId,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,featureCodes,none,none
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,getState,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsWA,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getPrimaryCountryName,none,none
+com.novetta.clavin.resolver.multipart,SearchResult,getBestLocation,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testSeldomUsedFields,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_WhitespaceInput,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,GazetteerQuery,getAncestryMode,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAsciiName,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,toString,none,none
+com.novetta.clavin.util,Null,equals,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,verifyCity,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAdmin1Code,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,addCityCodes,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,getGeoName,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,getGeoName,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.resolver,LocationResolver,resolveLocations,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,isAncestorOf,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testIsAncestryResolved_NoParents,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,LocationOccurrence,getText,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getLatitude,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,maxResults,none,none
+com.novetta.clavin.util,Null,toString,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,testResolveMultipartLocation,Testing Frameworks,"testing,junit"
+com.novetta.clavin.util,ListUtils,chunkifyList,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,parseGeoName,none,none
+com.novetta.clavin.gazetteer,GeoName,getAdmin3Code,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,removeFeatureCodes,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,addAdminCodes,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,removeAncestryAdminCodes,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,loadAncestry,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,.,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.index,IndexDirectoryBuilder,resolveAncestry,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_NotResolved_NoParent,Mocking,"mock,mocking,testing"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_NotResolved_NoParent,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,Entity,setText,none,none
+com.novetta.clavin.gazetteer.query,GazetteerQuery,getParentIds,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,loadAlternateNames,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,BasicGeoName,getName,none,none
+com.novetta.clavin.gazetteer,GeoName,getAdmin1Code,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,hashCode,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.resolver,LuceneLocationResolver,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testMalformedAlternateCountryCodes,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testSanitizedInput,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,Entity,setStartPos,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,isTopLevelAdminDivision,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,getCountry,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,getOptions,Command Line Parsers,"command-line,cli,parser"
+com.novetta.clavin.index,IndexDirectoryBuilder,getOptions,Core Utilities,"apache,commons"
+com.novetta.clavin.index,WhitespaceLowerCaseTokenizer,normalize,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getParent,none,none
+com.novetta.clavin.gazetteer,GeoName,getAncestryKey,none,none
+com.novetta.clavin.extractor,LocationOccurrenceTest,testHashCode,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,setUpClass,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getAlternateNames,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getAdmin3Code,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getElevation,none,none
+com.novetta.clavin.gazetteer,GeoName,getAdmin4Code,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,includeHistorical,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,setUp,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,MultiLevelMultipartLocationResolverTest,parameters,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,LocationOccurrence,hashCode,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAdmin4Code,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getLongitude,none,none
+com.novetta.clavin.index,WhitespaceLowerCaseAnalyzer,.,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.extractor,Entity,setEndPos,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testFuzzyMode,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,parseFromGeoNamesRecord,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer,GeoName,getGazetteerRecordWithAncestry,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testIsTopLevelTerritory,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testAncestryLoadMode_ManualLoad,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,GeoName,isAncestorOf,none,none
+com.novetta.clavin.gazetteer.query,Gazetteer,getGeoName,none,none
+com.novetta.clavin,GeoParser,parse,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.extractor,ApacheExtractor,extractLocationNames,Natural Language Processing,"nlp,tools,apache"
+com.novetta.clavin.gazetteer,GeoName,getFeatureCode,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,resolveParents,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,resolveParents,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.gazetteer.query,QueryBuilder,location,none,none
+com.novetta.clavin.index,WhitespaceLowerCaseAnalyzer,createComponents,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.util,DamerauLevenshteinTest,.,none,none
+com.novetta.clavin.extractor,Entity,getType,none,none
+com.novetta.clavin.gazetteer,GeoName,getGazetteerRecord,none,none
+com.novetta.clavin.gazetteer,FeatureCodeBuilder,.,none,none
+com.novetta.clavin.util,DamerauLevenshteinTest,testNullToString,Testing Frameworks,"testing,junit"
+com.novetta.clavin.util,ListUtilsTest,testChunkifyList,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,isAncestorOf,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testTerritoryAncestryKeys,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,resolveNoHeuristics,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,equals,none,none
+com.novetta.clavin.gazetteer,GeoName,getName,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testAncestryLoadMode_OnCreate,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsDC,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,isDescendantOf,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getGazetteerRecord,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,indexGeoName,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.resolver.multipart,ResolvedMultipartLocation,hashCode,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testAncestryLoadMode_LazyLoad,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getElevation,none,none
+com.novetta.clavin.resolver,ResolvedLocation,getGeoname,none,none
+com.novetta.clavin.extractor,AdaptNlpExtractorTest,testExtractLocationNames,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,QueryBuilder,addCountryCodes,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_NullLocationName,Testing Frameworks,"testing,junit"
+com.novetta.clavin,GeoParserTest,testParse,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,verifyLocation,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,GeoName,getPreferredName,none,none
+com.novetta.clavin,GeoParserFactory,getDefault,none,none
+com.novetta.clavin.extractor,AdaptNlpExtractor,.,Natural Language Processing,"nlp,tools,apache"
+com.novetta.clavin.extractor,AdaptNlpExtractor,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.extractor,AdaptNlpExtractor,.,HTTP Clients,"apache,client,http"
+com.novetta.clavin.extractor,AdaptNlpExtractor,.,JSON Libraries,"binding,json"
+com.novetta.clavin.index,WhitespaceLowerCaseTokenizer,.,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testNonExistentIndex,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testDifferingLookupEquality,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getFeatureCode,none,none
+com.novetta.clavin.gazetteer,GeoName,getParentId,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testBorderCases,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testAncestryLoad_Default,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver.multipart,MultiLevelMultipartLocationResolverTest,setUpClass,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,QueryBuilder,addAncestryAdminCodes,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testFuzzyMatching,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer.query,QueryBuilder,removeCountryCodes,none,none
+com.novetta.clavin.resolver,ClavinLocationResolver,pickBestCandidates,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testAncestryLoad_Lazy,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getParentAncestryKey,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,printHelp,Command Line Parsers,"command-line,cli,parser"
+com.novetta.clavin.util,DamerauLevenshtein,damerauLevenshteinDistanceCaseInsensitive,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_NullParentId,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_LazyResolve_NullParentId,Mocking,"mock,mocking,testing"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsMissouri,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,GeoName,getFeatureClass,none,none
+com.novetta.clavin.index,IndexDirectoryBuilder,.,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.index,IndexDirectoryBuilder,.,Logging Frameworks,"logging,api,slf4j"
+com.novetta.clavin.resolver.multipart,Scorer,score,none,none
+com.novetta.clavin.extractor,TextBody,toString,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getAsciiName,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationName,equals,none,none
+com.novetta.clavin.gazetteer.query,UniqueFuzzyScoringRewrite,.,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testParishAncestryKeys,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testAncestryLoad_OnCreate,Testing Frameworks,"testing,junit"
+com.novetta.clavin.index,BinarySimilarity,.,Full-Text Indexing Libraries,"lucene,indexing,apache,full-text,index"
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testNoFeatureCode,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,BasicGeoName,getAdmin4Code,none,none
+com.novetta.clavin.util,Null,.,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,removeCityCodes,none,none
+com.novetta.clavin.extractor,LocationOccurrence,toString,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getGazetteerRecordWithAncestry,none,none
+com.novetta.clavin.util,ListUtilsTest,.,none,none
+com.novetta.clavin.gazetteer.query,GazetteerQuery,getOccurrence,none,none
+com.novetta.clavin.resolver.multipart,MultipartLocationResolverTest,.,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getParentId,none,none
+com.novetta.clavin.resolver,ResolvedLocation,hashCode,none,none
+com.novetta.clavin.resolver,ResolvedLocation,equals,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,clearParentIds,none,none
+com.novetta.clavin.resolver.multipart,MatchedLocation,hashCode,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getPrimaryCountryName,none,none
+com.novetta.clavin.gazetteer.query,LuceneGazetteerTest,testResolveLocations_EmptyInput,Testing Frameworks,"testing,junit"
+com.novetta.clavin.resolver,ClavinLocationResolverHeuristicsTest,testHeuristicsNorthAfrica,Testing Frameworks,"testing,junit"
+com.novetta.clavin.extractor,TextBody,.,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,build,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,equals,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,isAncestryResolved,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,toString,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_ManualResolve_WithParent,Testing Frameworks,"testing,junit"
+com.novetta.clavin.gazetteer,LazyAncestryGeoNameTest,testGetParent_ManualResolve_WithParent,Mocking,"mock,mocking,testing"
+com.novetta.clavin.gazetteer.query,Gazetteer,getClosestLocations,none,none
+com.novetta.clavin.gazetteer,GeoName,getParentAncestryKey,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,isDescendantOf,none,none
+com.novetta.clavin.resolver.multipart,SearchResult,.,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,isAncestryResolved,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getAdmin3Code,none,none
+com.novetta.clavin.resolver.multipart,DefaultScorer,getMaximumScore,none,none
+com.novetta.clavin.gazetteer,BasicGeoName,getGazetteerRecord,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,filterDupes,none,none
+com.novetta.clavin.extractor,LocationOccurrence,.,none,none
+com.novetta.clavin.gazetteer,GeoName,getPrimaryCountryCode,none,none
+com.novetta.clavin.gazetteer.query,QueryBuilder,parentIds,none,none
+com.novetta.clavin.resolver,ClavinLocationResolver,generateAllCombos,none,none
+com.novetta.clavin.gazetteer,GeoName,getParent,none,none
+com.novetta.clavin.gazetteer,LazyAncestryGeoName,getPopulation,none,none
+com.novetta.clavin.resolver,ClavinLocationResolver,isDemonym,none,none
+com.novetta.clavin.gazetteer,BasicGeoNameTest,testSetParent_InvalidParent,Testing Frameworks,"testing,junit"
+com.novetta.clavin.util,TextUtils,fileToString,I/O Utilities,io
+com.novetta.clavin.gazetteer.query,LuceneGazetteer,sanitizeQueryText,none,none
+com.novetta.clavin.resolver,ClavinLocationResolverTest,testAncestryLoad_Manual,Testing Frameworks,"testing,junit"

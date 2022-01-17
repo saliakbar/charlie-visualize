@@ -1,0 +1,4 @@
+abstraction,junit:junit,org.openjdk.jmh:jmh-core,both
+method,22454,3914,516
+class,3381,920,570
+package,746,190,104

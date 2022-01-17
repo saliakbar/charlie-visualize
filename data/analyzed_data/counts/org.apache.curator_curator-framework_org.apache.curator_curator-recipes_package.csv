@@ -1,0 +1,10 @@
+repositoryName,org.apache.curator:curator-framework,org.apache.curator:curator-recipes,both
+nacos-group/nacos-sync,2,1,1
+diguage/jdk-source-analysis,0,0,0
+ww20081120/framework,0,0,0
+Snailclimb/guide-rpc-framework,2,1,1
+dromara/liteflow,1,1,1
+imadcn/idworker,2,2,2
+dibbhatt/kafka-spark-consumer,1,0,0
+spring-cloud/spring-cloud-zookeeper,9,2,2
+apache/dubbo-admin,5,0,0

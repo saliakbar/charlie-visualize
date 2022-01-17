@@ -1,0 +1,9 @@
+packageName,apis
+com.novetta.clavin.extractor,"[com.fasterxml.jackson.core:jackson-databind,junit:junit,org.apache.httpcomponents:httpclient,org.apache.opennlp:opennlp-tools,org.slf4j:slf4j-api]"
+com.novetta.clavin.resolver.multipart,"[junit:junit,org.slf4j:slf4j-api]"
+com.novetta.clavin.resolver,"[junit:junit,org.apache.lucene:lucene-queryparser,org.slf4j:slf4j-api]"
+com.novetta.clavin.util,"[commons-io:commons-io,junit:junit]"
+com.novetta.clavin,"[junit:junit,org.slf4j:slf4j-api]"
+com.novetta.clavin.index,"[commons-cli:commons-cli,commons-io:commons-io,junit:junit,org.apache.commons:commons-lang3,org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core,org.slf4j:slf4j-api]"
+com.novetta.clavin.gazetteer.query,"[junit:junit,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser,org.slf4j:slf4j-api]"
+com.novetta.clavin.gazetteer,"[junit:junit,org.mockito:mockito-core,org.slf4j:slf4j-api]"
