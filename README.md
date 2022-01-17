@@ -13,7 +13,7 @@ This is a reproduction project as part of the MSR course 2021/22 at UniKo, CS de
 ### Aspect of the reproduction project
 - We as team Charlie, chose to reproduce the visualization aspeect of the thesis, with which we aim to create a class map visualization of any given Java projeect, and these mappings will be seen in form of HTML and pdf files. The visualization aspect of the thesis is also related to the Assignment 0 that we had taken previously, and this made us go with this implementation as well. 
 ### Input data
-- Novetta/CLAVIN  (https://github.com/Novetta/CLAVIN)
+- The input were written through the datasets structured as per the Novetta/CLAVIN repository. These files are in CSV standard, after going through different earlier phases. These CSV files are the direct input to this visualization aspect.
 ### Output data
 - The output is in the form of HTML and pdf files that shows the visualization of the input Java project.
 
