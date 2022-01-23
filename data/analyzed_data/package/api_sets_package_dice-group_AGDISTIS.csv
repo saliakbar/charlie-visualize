@@ -1,0 +1,6 @@
+packageName,apis
+org.aksw.agdistis.algorithm,"[net.sf.jung:jung-graph-impl,org.apache.lucene:lucene-spellchecker,org.slf4j:slf4j-api]"
+org.aksw.agdistis.graph,[net.sf.jung:jung-graph-impl]
+org.aksw.agdistis.util,"[com.github.haifengl:smile-nlp,com.google.guava:guava,com.googlecode.json-simple:json-simple,commons-validator:commons-validator,edu.stanford.nlp:stanford-corenlp,org.apache.commons:commons-lang3,org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser,org.openrdf.sesame:sesame-rio-turtle,org.slf4j:slf4j-api]"
+org.aksw.agdistis.webapp,"[com.googlecode.json-simple:json-simple,org.slf4j:slf4j-api]"
+null,"[com.google.guava:guava,junit:junit,net.sf.jung:jung-graph-impl,org.apache.lucene:lucene-spellchecker,org.slf4j:slf4j-api]"

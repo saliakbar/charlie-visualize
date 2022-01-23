@@ -1,0 +1,13 @@
+packageName,api,mcrCategories,mcrTags,count,countAll,proportion
+io.dashbase.clue,org.apache.lucene:lucene-core,null,null,42,42,1.0
+io.dashbase.clue.util,org.apache.lucene:lucene-core,null,null,37,37,1.0
+io.dashbase.clue.client,jline:jline,null,null,33,55,0.6
+io.dashbase.clue.client,com.squareup.retrofit2:converter-scalars,null,null,2,55,0.04
+io.dashbase.clue.client,org.apache.lucene:lucene-core,null,null,6,55,0.11
+io.dashbase.clue.client,com.squareup.retrofit2:retrofit,null,null,13,55,0.24
+io.dashbase.clue.client,com.squareup.retrofit2:converter-jackson,null,null,1,55,0.02
+io.dashbase.clue.test,org.apache.lucene:lucene-core,null,null,130,130,1.0
+io.dashbase.clue.api,org.apache.lucene:lucene-core,null,null,42,47,0.89
+io.dashbase.clue.api,org.apache.lucene:lucene-queryparser,null,null,5,47,0.11
+io.dashbase.clue.commands,org.apache.lucene:lucene-core,null,null,782,783,1.0
+io.dashbase.clue.commands,org.apache.lucene:lucene-codecs,null,null,1,783,0.0

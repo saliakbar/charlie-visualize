@@ -1,0 +1,5 @@
+packageName,apis
+com.intuit.fuzzymatcher.util,"[org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core]"
+com.intuit.fuzzymatcher.component,"[com.opencsv:opencsv,junit:junit,org.apache.commons:commons-collections4,org.apache.commons:commons-lang3,org.mockito:mockito-all,org.slf4j:slf4j-api]"
+com.intuit.fuzzymatcher.domain,"[junit:junit,org.apache.commons:commons-collections4,org.apache.commons:commons-lang3]"
+com.intuit.fuzzymatcher.function,"[commons-codec:commons-codec,junit:junit,org.apache.commons:commons-lang3,org.mockito:mockito-all]"

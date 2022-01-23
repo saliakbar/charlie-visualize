@@ -1,0 +1,17 @@
+packageName,className,apis
+org.aksw.agdistis.util,TripleIndexContext,"[com.google.guava:guava,commons-validator:commons-validator,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser,org.slf4j:slf4j-api]"
+org.aksw.agdistis.graph,BreadthFirstSearch,[net.sf.jung:jung-graph-impl]
+null,TripleIndexTest,"[junit:junit,org.apache.lucene:lucene-spellchecker,org.slf4j:slf4j-api]"
+org.aksw.agdistis.util,TripleIndex,"[com.google.guava:guava,commons-validator:commons-validator,org.apache.commons:commons-lang3,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser,org.slf4j:slf4j-api]"
+null,AGDISTISTest,[junit:junit]
+null,PageRankTest,"[junit:junit,net.sf.jung:jung-graph-impl]"
+null,TripleIndexCreatorTest,"[com.google.guava:guava,junit:junit,org.slf4j:slf4j-api]"
+org.aksw.agdistis.util,LiteralAnalyzer,"[org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core]"
+null,HitsTest,"[junit:junit,net.sf.jung:jung-graph-impl]"
+org.aksw.agdistis.util,TripleIndexCreator,"[org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core,org.openrdf.sesame:sesame-rio-turtle,org.slf4j:slf4j-api]"
+org.aksw.agdistis.util,TripleIndexCreatorContext,"[org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core,org.openrdf.sesame:sesame-rio-turtle,org.slf4j:slf4j-api]"
+org.aksw.agdistis.algorithm,CandidateUtil,"[net.sf.jung:jung-graph-impl,org.apache.lucene:lucene-spellchecker,org.slf4j:slf4j-api]"
+org.aksw.agdistis.algorithm,NEDAlgo_HITS,"[net.sf.jung:jung-graph-impl,org.slf4j:slf4j-api]"
+org.aksw.agdistis.util,NIFParser,"[com.googlecode.json-simple:json-simple,org.slf4j:slf4j-api]"
+org.aksw.agdistis.webapp,GetDisambiguation,"[com.googlecode.json-simple:json-simple,org.slf4j:slf4j-api]"
+org.aksw.agdistis.util,Stemming,"[com.github.haifengl:smile-nlp,edu.stanford.nlp:stanford-corenlp]"

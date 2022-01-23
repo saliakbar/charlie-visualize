@@ -152,7 +152,16 @@ if __name__ == "__main__":
     dependence3tags = ["analyzer", "indexing", "full-text"]
 
     repositories = [
-        "Novetta/CLAVIN"
+        "Novetta/CLAVIN",
+        "DependencyTrack/dependency-track",
+        "dice-group/AGDISTIS",
+        "dice-group/Palmetto",
+        "intuit/fuzzy-matcher",
+        "data/javasoze_clue",
+        "senseidb/zoie",
+        "Stratio/cassandra-lucene-index",
+        "weiboad/fiery",
+        "ysc/word"
     ]
 
     for repository in repositories:

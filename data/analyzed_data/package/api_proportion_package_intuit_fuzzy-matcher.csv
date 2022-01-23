@@ -1,0 +1,16 @@
+packageName,api,mcrCategories,mcrTags,count,countAll,proportion
+com.intuit.fuzzymatcher.util,org.apache.lucene:lucene-analyzers-common,null,null,11,17,0.65
+com.intuit.fuzzymatcher.util,org.apache.lucene:lucene-core,null,null,6,17,0.35
+com.intuit.fuzzymatcher.component,org.slf4j:slf4j-api,null,null,15,260,0.06
+com.intuit.fuzzymatcher.component,junit:junit,null,null,201,260,0.77
+com.intuit.fuzzymatcher.component,org.apache.commons:commons-lang3,null,null,7,260,0.03
+com.intuit.fuzzymatcher.component,com.opencsv:opencsv,null,null,24,260,0.09
+com.intuit.fuzzymatcher.component,org.mockito:mockito-all,null,null,11,260,0.04
+com.intuit.fuzzymatcher.component,org.apache.commons:commons-collections4,null,null,2,260,0.01
+com.intuit.fuzzymatcher.domain,org.apache.commons:commons-lang3,null,null,6,72,0.08
+com.intuit.fuzzymatcher.domain,org.apache.commons:commons-collections4,null,null,4,72,0.06
+com.intuit.fuzzymatcher.domain,junit:junit,null,null,62,72,0.86
+com.intuit.fuzzymatcher.function,org.apache.commons:commons-lang3,null,null,6,122,0.05
+com.intuit.fuzzymatcher.function,commons-codec:commons-codec,null,null,4,122,0.03
+com.intuit.fuzzymatcher.function,org.mockito:mockito-all,null,null,9,122,0.07
+com.intuit.fuzzymatcher.function,junit:junit,null,null,103,122,0.84

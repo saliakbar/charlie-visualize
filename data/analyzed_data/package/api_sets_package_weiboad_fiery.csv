@@ -1,0 +1,17 @@
+packageName,apis
+org.weiboad.ragnar.util,"[commons-cli:commons-cli,org.jetbrains:annotations]"
+org.weiboad.ragnar.kafka,[org.apache.kafka:kafka-clients]
+org.weiboad.ragnar.server.statistics.sql,[com.alibaba:druid]
+org.weiboad.ragnar.server.statistics.error,[com.google.code.gson:gson]
+org.weiboad.ragnar.server.search,"[org.apache.lucene:lucene-analyzers-smartcn,org.apache.lucene:lucene-core]"
+org.weiboad.ragnar.server.kafka,"[com.google.code.gson:gson,org.apache.kafka:kafka-clients]"
+org.weiboad.ragnar.server.controller.web,"[com.google.code.gson:gson,commons-lang:commons-lang,org.apache.lucene:lucene-analyzers-smartcn,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser]"
+org.weiboad.ragnar.server.statistics.api,[com.google.code.gson:gson]
+org.weiboad.ragnar.util.concurrent,[org.jetbrains:annotations]
+org.weiboad.ragnar.server.processor,[com.google.code.gson:gson]
+org.weiboad.ragnar.server.storage,[org.rocksdb:rocksdbjni]
+org.weiboad.ragnar.http,"[com.google.code.gson:gson,com.squareup.okhttp3:okhttp]"
+org.weiboad.ragnar.server.controller.search,"[org.apache.lucene:lucene-analyzers-smartcn,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser]"
+org.weiboad.ragnar.server.struct,[org.apache.lucene:lucene-core]
+org.weiboad.ragnar.server.controller.ragnarlog,[com.google.code.gson:gson]
+org.weiboad.ragnar.logpusher,[commons-cli:commons-cli]

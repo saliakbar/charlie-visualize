@@ -1,0 +1,15 @@
+packageName,apis
+org.apdplat.word.corpus,[org.slf4j:slf4j-api]
+org.apdplat.word.dictionary,[org.slf4j:slf4j-api]
+org.apdplat.word.solr,"[org.apache.lucene:lucene-analyzers-common,org.apache.lucene:lucene-core,org.slf4j:slf4j-api]"
+org.apdplat.word.dictionary.impl,"[junit:junit,org.slf4j:slf4j-api]"
+org.apdplat.word.analysis,"[junit:junit,org.slf4j:slf4j-api]"
+org.apdplat.word.lucene,"[junit:junit,org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser,org.slf4j:slf4j-api]"
+org.apdplat.word.util,"[junit:junit,org.slf4j:slf4j-api,redis.clients:jedis]"
+org.apdplat.word.elasticsearch,"[org.apache.lucene:lucene-core,org.elasticsearch:elasticsearch,org.slf4j:slf4j-api]"
+org.apdplat.word.vector,[org.slf4j:slf4j-api]
+org.apdplat.word.segmentation,[org.slf4j:slf4j-api]
+org.apdplat.word.segmentation.impl,"[junit:junit,org.slf4j:slf4j-api]"
+org.apdplat.word,[org.slf4j:slf4j-api]
+org.apdplat.word.recognition,"[junit:junit,org.slf4j:slf4j-api]"
+org.apdplat.word.tagging,"[com.belerweb:pinyin4j,org.slf4j:slf4j-api]"

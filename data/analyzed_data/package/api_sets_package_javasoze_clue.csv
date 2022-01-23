@@ -1,0 +1,7 @@
+packageName,apis
+io.dashbase.clue,[org.apache.lucene:lucene-core]
+io.dashbase.clue.util,[org.apache.lucene:lucene-core]
+io.dashbase.clue.client,"[com.squareup.retrofit2:converter-jackson,com.squareup.retrofit2:converter-scalars,com.squareup.retrofit2:retrofit,jline:jline,org.apache.lucene:lucene-core]"
+io.dashbase.clue.test,[org.apache.lucene:lucene-core]
+io.dashbase.clue.api,"[org.apache.lucene:lucene-core,org.apache.lucene:lucene-queryparser]"
+io.dashbase.clue.commands,"[org.apache.lucene:lucene-codecs,org.apache.lucene:lucene-core]"
