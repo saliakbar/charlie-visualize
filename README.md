@@ -47,10 +47,18 @@ The output files will be generated in the ".data/visualization" folder, apart fr
 To verify the output, it is best to open the generated files and go through the results in "data/visualization" folder. 
 
 ### Data
+We have used the Novetta_CLAVIN dataset as the initial implementation and for additional work, we collected datasets from Team X-ray, and implemented our approach to generate visualization files as well. All the results can be found within `./data/visualization` folder. 
 Following files are being used as the datasets: 
 
 Folder type  	| 	Folder Name
 ----------------|--------------
-Dataset  		| `./data/characterization`
-Dataset  		| `./data/analyzed_data`
-Dataset  		| `./data/analyzed_data`s
+Dataset (Group X-Ray) 	| `./data/data_DependencyTrack_dependency-track.csv`
+Dataset (Original)	| `./data/data_Novetta_CLAVIN.csv`
+Dataset (Group X-Ray)	| `./data/data_Stratio_cassandra-lucene-index.csv`
+Dataset (Group X-Ray) 	| `./data/data_dice-group_AGDISTIS.csv`
+Dataset (Group X-Ray) 	| `./data/data_dice-group_Palmetto.csv `
+Dataset (Group X-Ray) 	| `./data/data_intuit_fuzzy-matcher.csv`
+Dataset (Group X-Ray) 	| `./data/data_javasoze_clue.csv`
+Dataset (Group X-Ray) 	| `./data/data_senseidb_zoie.csv `
+Dataset (Group X-Ray) 	| `./data/data_weiboad_fiery.csv `
+Dataset (Group X-Ray) 	| `./data/data_ysc_word.csv `
